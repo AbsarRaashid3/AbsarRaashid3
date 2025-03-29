@@ -1,5 +1,15 @@
-# About Me:
-Hi, I'm **Absar Raashid**<br> AI Researcher | Full-Stack Developer | Machine Learning Engineer<br><br>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=84C2C0&reversal=false&section=header"/>
+
+<!-- Hi Message -->
+<div align="center">
+  <br>
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Absar+Raashid!" alt="Hi 👋 I'm Absar Raashid!" />
+  </a>
+</div>
+
+AI Researcher | Full-Stack Developer | Machine Learning Engineer<br><br>
 I'm a passionate developer and researcher with a deep love for Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I specialize in building AI-driven applications, tackling NLP challenges, and creating scalable web solutions using cutting-edge technologies. My work revolves around transforming ideas into intelligent, data-driven products that enhance user experiences and solve real-world problems.<br><br>
 🔥 **What I Do**<br>💡 AI & Machine Learning – Building NLP models, AI-powered applications, and ML-based solutions.<br>💻 Full-Stack Development – Crafting scalable, high-performance web apps using the MERN stack.<br>🧠 Deep Learning & NLP – Working with Transformers, LSTMs, and Speech-to-Text models.<br>⚡ Big Data & Analytics – Implementing predictive models and visualization tools for data-driven insights.<br>🎓I'm a Computer Science UnderGrad at FAST NATIONAL UNIVERSITY. <br><br>
 🚀 Featured Projects<br>🔹 KickMetrics – AI-powered football analytics platform with ML-based player performance and market value prediction.<br>🔹 AbsarWheels – A dynamic car trading platform built with the MERN stack.<br>🔹 Podcast Summarizer & YouTube Suggester – AI-driven podcast summarization & recommendation system.<br>🔹 TranslodeP2C – Pseudocode-to-C++ conversion using deep learning transformers.<br>🔹 BayaanX – Neural Machine Translation system for Arabic-to-English text conversion.<br><br>
@@ -32,21 +42,29 @@ I'm a passionate developer and researcher with a deep love for Artificial Intell
 
 <br>
 
+<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbsarRaashid3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AbsarRaashid3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsarRaashid3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
+
+
+<div align="center">
 
 ## 🛠 More details about Tech Stack<br>
-- Languages: Python, JavaScript, TypeScript, C++<br>
-- Frameworks & Libraries: TensorFlow, PyTorch, Transformers, OpenAI Whisper, FastAPI, Flask, Express.js<br>
-- Frontend: React.js, Redux, Tailwind CSS, Bootsrap<br>
-- Backend: Node.js, MongoDB, PostgreSQL<br>
-- AI/NLP Tools: Hugging Face, spaCy, OpenAI APIs, Deepgram<br> 
-- Cloud: Google Cloud, CI/CD<br><br>
----
+
+| Languages      | Frameworks & Libraries                                           | Frontend                          | Backend                     | AI/NLP Tools                    | Cloud                |
+|----------------|------------------------------------------------------------------|----------------------------------|-----------------------------|--------------------------------|----------------------|
+| Python, JavaScript, TypeScript, C++ | TensorFlow, PyTorch, Transformers, OpenAI Whisper, FastAPI, Flask, Express.js | React.js, Redux, Tailwind CSS, Bootstrap | Node.js, MongoDB, PostgreSQL | Hugging Face, spaCy, OpenAI APIs, Deepgram | Google Cloud, CI/CD |
+
+</div>
+
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=AbsarRaashid3&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -67,9 +85,13 @@ I'm a passionate developer and researcher with a deep love for Artificial Intell
 
 ---
 
-**📫 Let's Connect!**
-<br>
-**💼 LinkedIn:** www.linkedin.com/in/absarraashid<br>
-**📧 Email:** absarrashid3@gmail.com<br><br>
-I'm always open to collaborations, AI research, and innovative projects. Let's build something incredible together!
+<!-- Thank You Message -->
+<div align="center">
+  <br>
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
+  </a>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=YOUR_COLOR&height=120&section=footer"/>
+
 
