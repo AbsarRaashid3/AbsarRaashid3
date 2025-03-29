@@ -110,6 +110,11 @@ I'm a passionate developer and researcher with a deep love for **Artificial Inte
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbsarRaashid3&theme=onestar&no-frame=false&no-bg=true&margin-w=4&column=7&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Joined,Followers,Repositories,Commits,Issues,PullRequest,Stars,Contributions"/>
+</div>
+
 <!-- Thank You Message -->
 <div align="center">
   <br>
@@ -118,5 +123,7 @@ I'm a passionate developer and researcher with a deep love for **Artificial Inte
   </a>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=YOUR_COLOR&height=120&section=footer"/>
+
+
 
 
