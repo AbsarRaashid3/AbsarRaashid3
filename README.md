@@ -9,10 +9,35 @@
   </a>
 </div>
 
-AI Researcher | Full-Stack Developer | Machine Learning Engineer<br><br>
-I'm a passionate developer and researcher with a deep love for Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I specialize in building AI-driven applications, tackling NLP challenges, and creating scalable web solutions using cutting-edge technologies. My work revolves around transforming ideas into intelligent, data-driven products that enhance user experiences and solve real-world problems.<br><br>
-🔥 **What I Do**<br>💡 AI & Machine Learning – Building NLP models, AI-powered applications, and ML-based solutions.<br>💻 Full-Stack Development – Crafting scalable, high-performance web apps using the MERN stack.<br>🧠 Deep Learning & NLP – Working with Transformers, LSTMs, and Speech-to-Text models.<br>⚡ Big Data & Analytics – Implementing predictive models and visualization tools for data-driven insights.<br>🎓I'm a Computer Science UnderGrad at FAST NATIONAL UNIVERSITY. <br><br>
-🚀 Featured Projects<br>🔹 KickMetrics – AI-powered football analytics platform with ML-based player performance and market value prediction.<br>🔹 AbsarWheels – A dynamic car trading platform built with the MERN stack.<br>🔹 Podcast Summarizer & YouTube Suggester – AI-driven podcast summarization & recommendation system.<br>🔹 TranslodeP2C – Pseudocode-to-C++ conversion using deep learning transformers.<br>🔹 BayaanX – Neural Machine Translation system for Arabic-to-English text conversion.<br><br>
+<div align="center">
+  
+## 🌟 AI Researcher | Full-Stack Developer | Machine Learning Engineer
+  
+I'm a passionate developer and researcher with a deep love for **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**. I specialize in building **AI-driven applications, tackling NLP challenges, and creating scalable web solutions** using cutting-edge technologies. My work revolves around transforming ideas into intelligent, data-driven products that enhance user experiences and solve real-world problems.
+
+---
+
+### 🔥 **What I Do**
+- 💡 **AI & Machine Learning:** Developing NLP models, AI-powered applications, and ML-based solutions.
+- 💻 **Full-Stack Development:** Building scalable, high-performance web apps using the MERN stack.
+- 🧠 **Deep Learning & NLP:** Working with Transformers, LSTMs, Speech-to-Text models, and more.
+- ⚡ **Big Data & Analytics:** Creating predictive models and visualization tools for data-driven insights.
+- 🎓 **Education:** Computer Science Graduate from FAST NATIONAL UNIVERSITY (FAST-NUCES).
+
+---
+
+### 🚀 **Featured Projects**
+- 🔹 **SassySolver:** Fine-tuned model for correcting incorrect math memes with accurate explanations.  
+- 🔹 **Podcast Summarizer & YouTube Suggester:** AI-powered podcast transcription, summarization, and recommendation system.  
+- 🔹 **TranslodeP2C & CPP2Logic:** Pseudocode-to-C++ and C++-to-Pseudocode translation using Transformers.  
+- 🔹 **BayaanX:** Neural Machine Translation system for Arabic-to-English text conversion.  
+- 🔹 **AI-Powered Urdu Poetry Generator:** LSTM-based system generating coherent Urdu poetry.  
+- 🔹 **LaughterLens:** Personalized joke recommendation system using collaborative filtering.  
+
+---
+
+✨ **I’m constantly exploring new technologies and pushing the boundaries of AI and web development. Let’s connect and build something amazing!** 🚀  
+</div>
 
 
 ## 🌐 Socials:
