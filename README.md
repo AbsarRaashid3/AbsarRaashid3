@@ -126,7 +126,7 @@ I'm a passionate developer and researcher with a deep love for **Artificial Inte
   <br>
   <br>
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=50&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
   </a>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=YOUR_COLOR&height=120&section=footer"/>
