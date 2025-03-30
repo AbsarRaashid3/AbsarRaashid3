@@ -124,6 +124,7 @@ I'm a passionate developer and researcher with a deep love for **Artificial Inte
 <!-- Thank You Message -->
 <div align="center">
   <br>
+  <br>
   <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25&lines=Thank you for visiting! 👋" alt="Thank you for visiting!" />
   </a>
